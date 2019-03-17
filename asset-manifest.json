@@ -1,13 +1,13 @@
 {
-  "main.css": "/Jeopardy/static/css/main.ea01d199.chunk.css",
-  "main.js": "/Jeopardy/static/js/main.0416becc.chunk.js",
-  "main.js.map": "/Jeopardy/static/js/main.0416becc.chunk.js.map",
+  "main.css": "/Jeopardy/static/css/main.696fc2ef.chunk.css",
+  "main.js": "/Jeopardy/static/js/main.a6963ef2.chunk.js",
+  "main.js.map": "/Jeopardy/static/js/main.a6963ef2.chunk.js.map",
   "runtime~main.js": "/Jeopardy/static/js/runtime~main.8ec77093.js",
   "runtime~main.js.map": "/Jeopardy/static/js/runtime~main.8ec77093.js.map",
   "static/js/2.f520679a.chunk.js": "/Jeopardy/static/js/2.f520679a.chunk.js",
   "static/js/2.f520679a.chunk.js.map": "/Jeopardy/static/js/2.f520679a.chunk.js.map",
   "index.html": "/Jeopardy/index.html",
-  "precache-manifest.b8f77bc2f97eb5a01d1900bddb1a23d4.js": "/Jeopardy/precache-manifest.b8f77bc2f97eb5a01d1900bddb1a23d4.js",
+  "precache-manifest.1c92136d61211799429940c81a1e4139.js": "/Jeopardy/precache-manifest.1c92136d61211799429940c81a1e4139.js",
   "service-worker.js": "/Jeopardy/service-worker.js",
-  "static/css/main.ea01d199.chunk.css.map": "/Jeopardy/static/css/main.ea01d199.chunk.css.map"
+  "static/css/main.696fc2ef.chunk.css.map": "/Jeopardy/static/css/main.696fc2ef.chunk.css.map"
 }
