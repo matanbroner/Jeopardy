@@ -1,5 +1,5 @@
 {
-  "main.css": "/Jeopardy/static/css/main.629fd396.chunk.css",
+  "main.css": "/Jeopardy/static/css/main.2f9e1579.chunk.css",
   "main.js": "/Jeopardy/static/js/main.daa0d148.chunk.js",
   "main.js.map": "/Jeopardy/static/js/main.daa0d148.chunk.js.map",
   "runtime~main.js": "/Jeopardy/static/js/runtime~main.8ec77093.js",
@@ -7,8 +7,8 @@
   "static/js/2.bcda604c.chunk.js": "/Jeopardy/static/js/2.bcda604c.chunk.js",
   "static/js/2.bcda604c.chunk.js.map": "/Jeopardy/static/js/2.bcda604c.chunk.js.map",
   "index.html": "/Jeopardy/index.html",
-  "precache-manifest.2399111243b18306927a7e9569f25f17.js": "/Jeopardy/precache-manifest.2399111243b18306927a7e9569f25f17.js",
+  "precache-manifest.2ec51f367306957c6c9d66b6b8f0b01d.js": "/Jeopardy/precache-manifest.2ec51f367306957c6c9d66b6b8f0b01d.js",
   "service-worker.js": "/Jeopardy/service-worker.js",
-  "static/css/main.629fd396.chunk.css.map": "/Jeopardy/static/css/main.629fd396.chunk.css.map",
+  "static/css/main.2f9e1579.chunk.css.map": "/Jeopardy/static/css/main.2f9e1579.chunk.css.map",
   "static/media/logo.png": "/Jeopardy/static/media/logo.30fa15fe.png"
 }
