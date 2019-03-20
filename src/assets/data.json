@@ -1,0 +1,124 @@
+{
+   "data": [
+      {
+        "category": "Purim Food",
+        "questions": [
+          {
+            "points": 100,
+            "question": "What do we eat on Purim?",
+            "answer": "Hamentashen"
+          },
+          {
+            "points": 200,
+            "question": "Why do we eat Hamentashen?",
+            "answer": "As a symbol of Haman's ear!"
+          },
+          {
+            "points": 300,
+            "question": "What is the Hebrew name for Hamentashen?",
+            "answer": "Oznei Haman"
+          },
+          {
+            "points": 400,
+            "question": "Name at least two fillings that are put in Hamentashen.",
+            "answer": "Chocolate, Jelly, Poppy Seeds"
+          },
+          {
+            "points": 500,
+            "question": "True or False: On purim we eat a lot of oily foods, such as Sufganiyot.",
+            "answer": "False, oily foods are eaten on Hannukah!"
+          }
+        ]
+      },
+      {
+        "category": "Characters",
+        "questions": [
+          {
+            "points": 100,
+            "question": "Who is the 'bad guy' in the Purim story?",
+            "answer": "Haman"
+          },
+          {
+            "points": 200,
+            "question": "True or False: Vashti was Jewish.",
+            "answer": "False"
+          },
+          {
+            "points": 300,
+            "question": "What was Esther's Hebrew name?",
+            "answer": "Hadasa"
+          },
+          {
+            "points": 400,
+            "question": "Why did King Achashverosh banish Vashti from his kingdom?",
+            "answer": "She refused to attend the large party he was hosting."
+          },
+          {
+            "points": 500,
+            "question": "Name all the important people in the Megillah (Hint: Five people)",
+            "answer": "Esther, Mordechai, Vashti, Achashverosh, Haman"
+          }
+        ]
+      },
+      {
+        "category": "Megillah Facts",
+        "questions": [
+          {
+            "points": 100,
+            "question": "What is a Megillah?",
+            "answer": "A scroll"
+          },
+          {
+            "points": 200,
+            "question": "What did Haman use his dice for?",
+            "answer": "To decide on what day the Jews would be killed!"
+          },
+          {
+            "points": 300,
+            "question": "What is special about the date 'Yud-Gimel of Adar'?",
+            "answer": "It is the date of the Fast of Esther"
+          },
+          {
+            "points": 400,
+            "question": "Who led Mordechai on his horse?",
+            "answer": "Haman, as a punishment"
+          },
+          {
+            "points": 500,
+            "question": "What was the relationship between Esther and Mordechai?",
+            "answer": "Mordechai was her uncle."
+          }
+        ]
+      },
+      {
+        "category": "Customs",
+        "questions": [
+          {
+            "points": 100,
+            "question": "When is the Megillah read?",
+            "answer": "On Purim!"
+          },
+          {
+            "points": 200,
+            "question": "What is the most famous custom to perform on Purim?",
+            "answer": "Dress in costumes"
+          },
+          {
+            "points": 300,
+            "question": "What is the name of the gifts we recieve on Purim?",
+            "answer": "Mishloach Manot"
+          },
+          {
+            "points": 400,
+            "question": "True or False: Purim has different names in Hebrew and English.",
+            "answer": "False"
+          },
+          {
+            "points": 500,
+            "question": "Sing the first line of a famous Purim song!",
+            "answer": "Chag Purim, Chag Purim, Chag Gadol LaYeladim!"
+          }
+        ]
+      }
+    ]
+}
