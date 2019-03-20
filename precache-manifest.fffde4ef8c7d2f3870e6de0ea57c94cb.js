@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "672014caff6a716b8d22",
+    "revision": "9cbe61d2b073cfb5b7b6",
     "url": "/Jeopardy/static/css/main.2f9e1579.chunk.css"
   },
   {
-    "revision": "672014caff6a716b8d22",
-    "url": "/Jeopardy/static/js/main.e9945062.chunk.js"
+    "revision": "9cbe61d2b073cfb5b7b6",
+    "url": "/Jeopardy/static/js/main.c18cdfe3.chunk.js"
   },
   {
     "revision": "3cb76af413af0b38012e",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Jeopardy/static/media/logo.30fa15fe.png"
   },
   {
-    "revision": "50ac71f7f6a0151f252a21c0d07ced93",
+    "revision": "f327bb8e384a899bc79189b89e044dfb",
     "url": "/Jeopardy/index.html"
   }
 ];
