@@ -25,7 +25,7 @@ class App extends React.PureComponent{
             <div className="col-md-12 titleScreen">
                 <img className="titleLogo" src={logo}/>
                 <br/>
-                <div className="playScreenText">Welcome to Purim Jeopardy!</div>
+                <div className="playScreenText">Welcome to Pesach Jeopardy!</div>
                 <br/>
                 <button className="playScreenButton" onClick={() => this.setState({ play: true })}>Start Game</button>
             </div>
@@ -35,7 +35,7 @@ class App extends React.PureComponent{
     renderGameScreen(){
         return(
             <div>
-                <h1 className="gameTitle col-md-12">Purim Jeopardy! <img className="headerLogo" src={logo}/></h1>
+                <h1 className="gameTitle col-md-12">Pesach Jeopardy! <img className="headerLogo" src={logo}/></h1>
                 {this.state.questionData
                     ? <Table data={this.state.questionData}/> 
                     : null}
