@@ -17,12 +17,12 @@ var modalStyles = {
 
 var teams = [
     {
-        name: "Red Team",
+        name: "קבוצה האדומה",
         color: "#FF0000",
         points: 0
     },
     {
-        name: "Blue Team",
+        name: "קבוצה הכחולה",
         color: "#0000FF",
         points: 0
     }
@@ -30,17 +30,17 @@ var teams = [
 
 var optionalTeams = [
     {
-        name: "Orange Team",
+        name: "קבוצה הכתומה",
         color: "#ff8e1c",
         points: 0
     },
     {
-        name: "Purple Team",
+        name: "קבוצה הסגולה",
         color: "#b91bf9",
         points: 0
     },
     {
-        name: "Pink Team",
+        name: "קבוצה הורודה",
         color: "#ff00b4",
         points: 0
     }
@@ -122,7 +122,7 @@ class Table extends React.PureComponent{
             onClick={() => this.addPoints()}
             key={uniqid()}
             className="modalButton" 
-            style={{backgroundColor: "#909090"}}>No Points</button>
+            style={{backgroundColor: "#909090"}}>אין נקודות</button>
         )
         return(
             <div>
@@ -134,13 +134,13 @@ class Table extends React.PureComponent{
                 dialogStyles={modalStyles}
                 afterClose={this.resetModal}
                 >
-                    <div className="modalQuestion">Question: {this.state.modal.question}</div>
+                    <div className="modalQuestion">שאלה: {this.state.modal.question}</div>
                     <hr className="modalHorizontalRule"/>
                     <div className={this.state.modal.reveal 
                     ?"answerReveal"
                     :"answerHidden"
                     }>
-                    <div className="col-md-12 modalAnswer">Answer: {this.state.modal.answer}</div>
+                    <div className="col-md-12 modalAnswer">תשובה: {this.state.modal.answer}</div>
                     
                     </div>
                     <div className="modalButtonRow">
@@ -150,7 +150,7 @@ class Table extends React.PureComponent{
                             style={{backgroundColor: "#17b559"}}
                             className="modalButton"  
                             onClick={() => this.setState({modal: {...this.state.modal, reveal: true}})}>
-                            Reveal Answer
+                            גלה תשובה
                             </button>
                         }
                     </div>
@@ -239,7 +239,7 @@ class Table extends React.PureComponent{
         return(
             !isTie 
             ? <div className="winnerArea col-md-12" style={{backgroundColor:`${winner.color}`}}>
-                <div className="col-md-12 winnerText">{winner.name} has won! <i className="fa fa-trophy" aria-hidden="true"></i></div>
+                <div className="col-md-12 winnerText">ה{winner.name} נצחה! <i className="fa fa-trophy" aria-hidden="true"></i></div>
             </div>
             
             : <div className="winnerArea">

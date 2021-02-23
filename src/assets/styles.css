@@ -127,6 +127,7 @@ button:focus{
     font-size: 3.5em;
     color: white;
     text-align: center;
+    direction: rtl;
 }
 
 .row{
@@ -156,11 +157,13 @@ button:focus{
     font-weight: 400;
     color: rgba(60, 47, 103, 1);
     text-align: center;
+    direction: rtl;
 }
 
 .modalQuestion{
     font-size: 25px;
     font-weight: 400;
+    direction: rtl;
 }
 
 .modalTitle{
