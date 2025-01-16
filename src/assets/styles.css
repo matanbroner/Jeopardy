@@ -53,6 +53,7 @@ body{
     width: 5%;
     height: auto;
     margin-bottom: -5px;
+    margin-left: 15px;
 }
 
 button:focus{
@@ -201,7 +202,7 @@ button:focus{
 /* Card Styles */
 
 .cardBody{
-    height: 120px;
+    height: 100px;
     width: 150px;
 }
 
@@ -218,8 +219,8 @@ button:focus{
 
 .cardPoints{
     width: 150px;
-    line-height: 120px;
-    font-size: 35px;
+    line-height: 95px;
+    font-size: 30px;
     color: aliceblue;
     display:table-cell;
     text-align:center;
@@ -229,4 +230,11 @@ button:focus{
 
 .solvedCard{
     visibility: hidden;
+}
+
+.countdownWrapper {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
 }
