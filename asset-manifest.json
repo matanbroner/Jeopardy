@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jeopardy/static/css/main.71e0583f.css",
-    "main.js": "/Jeopardy/static/js/main.1ac63227.js",
-    "static/media/logo.png": "/Jeopardy/static/media/logo.d522e0e2c549607f9994.png",
+    "main.js": "/Jeopardy/static/js/main.22141860.js",
+    "static/media/logo.png": "/Jeopardy/static/media/logo.65bdfae1c2be95e412db.png",
     "index.html": "/Jeopardy/index.html",
     "main.71e0583f.css.map": "/Jeopardy/static/css/main.71e0583f.css.map",
-    "main.1ac63227.js.map": "/Jeopardy/static/js/main.1ac63227.js.map"
+    "main.22141860.js.map": "/Jeopardy/static/js/main.22141860.js.map"
   },
   "entrypoints": [
     "static/css/main.71e0583f.css",
-    "static/js/main.1ac63227.js"
+    "static/js/main.22141860.js"
   ]
 }
